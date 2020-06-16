@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "skilled-outlook-280513",
+  "private_key_id": "c0ca6f25e155bec549056b6c86c8f24bb95c4709",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDSVaI4scKdxKjW\n7b7MQY3gLPAjkwbQGVbHP6jsQMdkpQNMrTcn1HE3DkOV1CziI7QUmrAA7nvJmrWQ\n33+jtmBwaFJg3b7cdoH3jWs6tMolrolGgXoGS1InZ6J77/DWxlsRiL5DuvBI7ivA\nJKrLgBzgmubEo4DrjDiRBfjhRIbyy86nYinHwIUWvyW7+GfT1ikDmtGsCwG8s7M7\nilZSGN4ij5+8ms+XSbw5Wj2iM/QZkt8hnfXVGa826ATVMJU2PR3Ix7yfqWMTJter\nfhBu1PYeUXGxGMG2M8SEG8stlGlmWtstvt1P/kPNdKmBz8Rl4cK3WU4iDf1htX5P\nV7Wi1qF/AgMBAAECggEAPauVCll4bgi81nPT1xC7eAjFCjEwNLDRRE9yiH6/188Y\nJhG9k8SSw2k/wLz6wf1k7gui4ksKaYSeitE1G/u70AmOac9qiDqJBdvlnktm3+CK\naG1LKXBJMLuOpRcnftme1wfIfZRgoomOs2Is38j67pIMaohkIuw0o7TkEaylgqde\nBJSehY9g0DUwy/YDSbZCsTdhL638/5LLMHDpEPVuXlsb7GkNt7g8GViI3OpS5I0c\n7Tge88eaBoYLEfv7Rrn398gQH8dtTwuHsmN/y33c71mJ+luw5zlAEY+4dft7SsYa\nl45X/I4rQDL7+gxgXB3bc/OP2zXfYHAHg3B9E/nDMQKBgQDyr5nG7kM9kAtI6MAh\nac6Da2SKdgJe9a5R44bOlF9j3kg1WYEBL0ZxRL4NYtc0mDGIAlBd//yr+0ryJ6Jz\nC+fPUL3XVNDb4PI2wBccODE1rBJgg5lRQiUiwRfUrKLsHq5mfEl7Ca+04zZs+A0d\niHs2pfPjOti5yrCynl7c/SxhsQKBgQDd36x5Ve/ZPaDRYrhIH4XQHSg1+IqCNaXX\nLcsP+Q6BLWQdh2YCfL5RS8VzzpWNKu4RJ4JZJPfYYQ5GDlzvtcHlcZVdRVzma2vq\nAGp5r5EMPgP6I0AgfFd9OiRiEvrCG5BhWnTPeXhcRV+B3Jojmq9T1EkJUXxirIyd\nBByQWkZSLwKBgQDhsVT9oA+AbTlRcMNdT5zysykpa14BGdIn7cUs0Od1ZP8aPkau\n51xHcnqc0FL7Yp6NsjkzciF1f5nPYfS9sVC/iINEgmhKVARtzm6vm8KH+6KLh1dK\nLo2CqLiU3IgXtuDSBrv/ZJ63RqcS6AyqbobH58XMiKmM/2ccdhQayIhBwQKBgB5m\ny6dEkzzdKPAH6uBXEWrW0++xQqlc2ICHkc96fPZOVe2F5ABrP1i8XS3lHLDfNQe8\ntiuo2R0ZD2+iADIIYa0ixyiknHomNf82V2CdIe7fgIQB2IObBhHuqZWWrC10wW/V\niTP0nP1ntBKDO8utImEGMYvJUpXittG9Anz1IbWZAoGBALBV3bLLv6Mzh61FVaex\nMd77MSuhjn0cnZ0ardeBNbf4APuPt9g8hpIl8JhBg8OJbw0VZwhREIBEzFIfIadj\n8pc+RMo0+TlTfTbXiik7YCL1q/kZ6ocsG0kxBkiO/hkcZV3PUzvBG23oU2Di+dfx\nVlgKV0lB8hQ6REypkWLe0+sL\n-----END PRIVATE KEY-----\n",
+  "client_email": "box-110@skilled-outlook-280513.iam.gserviceaccount.com",
+  "client_id": "114933526267143065285",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/box-110%40skilled-outlook-280513.iam.gserviceaccount.com"
+}
