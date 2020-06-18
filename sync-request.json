@@ -1,0 +1,11 @@
+{
+  "config": {
+      "encoding":"LINEAR16",
+      "sampleRateHertz": 44100,
+      "languageCode": "fr-FR",
+      "enableWordTimeOffsets": false
+  },
+  "audio": {
+      "uri":"gs://sound_for_text_to_speech/test-WAV.wav"
+  }
+}
